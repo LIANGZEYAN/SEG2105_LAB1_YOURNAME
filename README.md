@@ -1,2 +1,2 @@
 # SEG2105_LAB1_YOURNAME
-this is SEG2105 2019 fall semester
+I am in my local git repo
